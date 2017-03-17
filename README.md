@@ -1,4 +1,11 @@
-# GIS
-Data set
+# CBS / GIS
 
-This data set is the shapefile of cities of Turkey with correct encoding. In addition, the licence plate 
+TR
+Türkiye'deki illerin shapefile dosyası. Türkçe karakter kodlamalı ve her ilin plaka kodu var. 
+Geometri verisi için bu kaynak kullanılmıştır: www.gadm.org
+
+EN
+Shapefile of the Turkish cities with correct encoding of letters. In addition, the licence plate numbers are provided.
+The geometry is obtained from: www.gadm.org
+
+
